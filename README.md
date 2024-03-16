@@ -19,3 +19,6 @@ Here are the codes I wrote while trying to read, write and create files in Java.
 
 5- AreaofRectangleTriangleCircle: <br>
 It's quite simple. I wanted to show the classical area calculation logic in Java.
+
+6- ZodiacSigns: <br>
+A program through which the users can easily learn their zodiac sign.
